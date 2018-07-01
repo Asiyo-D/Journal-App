@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Journal App</string>
+    <string name="journal">Journal</string>
+    <string name="continue_with_google">Continue with Google</string>
+    <string name="title_activity_main">Journal</string>
+    <string name="title_activity_new_entry">Add entry</string>
+
+    <!--Error Strings-->
+    <string name="no_connection">Check your internet connection and try again</string>
+    <string name="sign_in_cancelled">Sign in cancelled</string>
+    <string name="error_unknown" translation_description="General error messages for an unknown failure.">An unknown error occurred.</string>
+    <string name="journal_title">Journal title</string>
+    <string name="journal_text">Journal text</string>
+    <string name="save">Save</string>
+    <string name="title_counter">0/20</string>
+    <string name="text_counter">0 Chars</string>
+    <string name="title_activity_entry_view">Entry View</string>
+    <string name="no_entry_hint">Once you add a new journal entry, \n  you\'ll see it listed here</string>
+    <string name="entry_hint">What\'s on your mind…</string>
+    <string name="action_sign_out">Logout</string>
+    <string name="welcome_to">Welcome to</string>
+</resources>
