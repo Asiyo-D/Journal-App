@@ -3,11 +3,11 @@ Version 0.1.021
 
 The Journal app is and android application that allows the user to create and save notes
 
-# Prerequisites
+## Prerequisites
 
 To install the Journal app. You'll need the latest version of Google Play Services installed on your device.
 
-# Versioning
+## Versioning
 
 Semantic Versioning 2.0.0 is used for versioning this application.
 
